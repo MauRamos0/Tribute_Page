@@ -1,2 +1,2 @@
 # Tribute_Page
-My first project i did for freecodecamp.org
+The first project I did for freecodecamp.org
